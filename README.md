@@ -2,7 +2,7 @@
 
 Welcome to my resume repository.
 
-This repository contains the latest public version of my resume for opportunities in **Embedded Systems, PCB Design, Hardware Design and IoT**.
+This repository contains the latest public version of my resume for opportunities in **Embedded Systems, PCB Design, Hardware Design, IoT, RTL Design, SystemVerilog, and VLSI**.
 
 ## 🎯 Areas of Interest
 
@@ -10,17 +10,22 @@ This repository contains the latest public version of my resume for opportunitie
 * PCB Design
 * Hardware Design
 * IoT
+* RTL Design
+* Verilog
+* SystemVerilog (Basic)
+* Digital Electronics
+* VLSI
 
 ## 📄 Resume
 
-Please download **Rohit_Kumar_Resume.pdf** to view my latest resume.
+👉 **[Download My Resume](./Rohit_Kumar_Resume.pdf)**
 
 ## 🤝 Connect With Me
 
-**LinkedIn:**  
+**LinkedIn:**
 [linkedin.com/in/rohit-kumar-dv-er](https://www.linkedin.com/in/rohit-kumar-dv-er/)
 
-**GitHub:**  
+**GitHub:**
 [github.com/S-rohitkumar](https://github.com/S-rohitkumar)
 
 ---
