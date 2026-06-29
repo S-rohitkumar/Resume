@@ -1,2 +1,28 @@
-# Resume
-My latest resume for Embedded Systems, PCB Design, IoT, and Hardware Design opportunities.
+# 📄 Resume
+
+Welcome to my resume repository.
+
+This repository contains the latest public version of my resume for opportunities in **Embedded Systems, PCB Design, Hardware Design and IoT**.
+
+## 🎯 Areas of Interest
+
+* Embedded Systems
+* PCB Design
+* Hardware Design
+* IoT
+
+## 📄 Resume
+
+Please download **Rohit_Kumar_Resume.pdf** to view my latest resume.
+
+## 🤝 Connect With Me
+
+**LinkedIn:**  
+[linkedin.com/in/rohit-kumar-dv-er](https://www.linkedin.com/in/rohit-kumar-dv-er/)
+
+**GitHub:**  
+[github.com/S-rohitkumar](https://github.com/S-rohitkumar)
+
+---
+
+⭐ Thank you for visiting my profile. Feel free to connect with me for internships, full-time opportunities, or technical collaborations.
