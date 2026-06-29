@@ -2,7 +2,7 @@
 
 Welcome to my resume repository.
 
-This repository contains the latest public version of my resume for opportunities in **Embedded Systems, PCB Design, Hardware Design, IoT, RTL Design, SystemVerilog, and VLSI**.
+This repository contains the latest public version of my resume for opportunities in **Embedded Systems, PCB Design, Hardware Design and IoT**.
 
 ## 🎯 Areas of Interest
 
@@ -10,11 +10,6 @@ This repository contains the latest public version of my resume for opportunitie
 * PCB Design
 * Hardware Design
 * IoT
-* RTL Design
-* Verilog
-* SystemVerilog (Basic)
-* Digital Electronics
-* VLSI
 
 ## 📄 Resume
 
